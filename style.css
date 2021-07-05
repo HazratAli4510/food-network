@@ -147,3 +147,22 @@ section{
 #anylitics .main p{
     font-size: 16px;
 }
+
+
+footer{
+    height: 250px;
+    background-color: black;
+}
+footer h1{
+    color: #5B5B5B;
+    text-align: center;
+    padding: 2em 0 1em 0;
+}
+footer h1 span{
+    color: rgb(47, 206, 47);
+}
+footer p{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
