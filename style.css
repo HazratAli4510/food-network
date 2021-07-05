@@ -135,7 +135,11 @@ section {
     font-weight: 500;
     padding-top: 5px;
     font-size: 0.8em;
+    text-decoration: line-through;
 }
+
+
+
 
 
 
@@ -225,6 +229,8 @@ section {
 
 
 
+
+
 #my-recipies h1 {
     font-weight: 700;
     color: #676767;
@@ -294,6 +300,9 @@ section {
 #anylitics .main p {
     font-size: 16px;
 }
+
+
+
 
 
 footer {
