@@ -4,6 +4,26 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+nav{
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    box-shadow: 10px 10px 40px grey;
+}
+nav .container{
+    justify-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    margin-right: 3rem;
+    padding: 1rem 0;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
 .item-center {
     align-items: center;
 }
